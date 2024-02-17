@@ -120,6 +120,10 @@
     gap: 0px;
 }
 
+.section_title {
+    margin-bottom: 12px;
+}
+
 .subsection {
     display: flex;
     justify-content: space-between;
